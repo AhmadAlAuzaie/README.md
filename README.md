@@ -1,8 +1,12 @@
-    <h1>Welcome to My Profile!</h1>
-    <p>I am an aspiring <strong>Computer Science student</strong> at the <em>Singapore Institute of Management</em>, and I am actively seeking opportunities to enrich my expertise in the fields of <strong>Cyber Security</strong> or <strong>Artificial Intelligence</strong>.</p>
-    <p>I want to emphasize that I am also a <strong>cochlear implant hearing aid user</strong>, which adds to the unique perspective I bring to my studies and future career.</p>
-    <p>Despite the challenges posed by my hearing impairment, I have maintained a strong academic record and have honed my technical skills. I am determined to overcome any obstacles that come my way and strive for excellence in my chosen field. My goal is to contribute meaningfully in a professional setting, leveraging my analytical and problem-solving abilities to make a positive impact.</p>
-    <p>I am eager to immerse myself in a dynamic and collaborative work environment, where I can apply my theoretical knowledge and practical skills to real-world challenges. I am constantly seeking opportunities to further develop my expertise and technical competencies, as I believe in the importance of lifelong learning and staying up-to-date with the latest advancements in the industry.</p>
-    <p>By highlighting my cochlear implant hearing aid usage, I hope to not only showcase my determination and resilience but also inspire others with similar challenges to pursue their passions and achieve their goals. I firmly believe that diversity and inclusion are crucial in any field, and I am committed to breaking barriers and making a difference in the world of technology.</p>
-    <p>I am excited about the possibilities that lie ahead, and I am confident that my unique blend of skills, dedication, and adaptability will make me a valuable asset to any team or organization. I am ready to embrace new opportunities, take on challenges, and continue growing both personally and professionally.</p>
+<h1>Hi there! 👋</h1>
+<h3>I'm Ahmad, a dedicated Computer Science student with a focus on Cyber Security and Artificial Intelligence from the Singapore Institute of Management.</h3>
 
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbzhYcAjPbzbVdhzeYn1F5CNGChsAmsp529Xvo1lsR_3xMXo8S4FeOQxnqR8jYUkdl96gGNfERYIiVXiA5RxTnyCQh5eOZk44l18JXlE1MLCIDQ1b0U1XKMSDRaliNa6HBQk7dvjKTsNzOUTfccTIxLsd2KIvXGqVEdvI6fq4ADYTBpx9y0E-6NxWlIQ/s16000/Software%20Solutions%20(3).png)
+
+I'm not just pursuing my academic career; I also bring a unique perspective as a cochlear implant hearing aid user, which fuels my determination and resilience in overcoming challenges in tech and beyond. Despite these challenges, I've maintained strong academic and technical prowess, aiming to make significant impacts in the fields of Cyber Security and AI.
+
+On my GitHub profile, you'll find projects that showcase my skills in a variety of programming languages and technologies. I am always looking for ways to expand my knowledge and stay up-to-date with the latest advancements in the industry. I'm eager to contribute meaningfully in a professional setting and immerse myself in a dynamic and collaborative work environment.
+
+[![Ahmad's GitHub stats](https://github-readme-stats.vercel.app/api?username=AhmadAlAuzaie)](https://github.com/AhmadAlAuzaie/github-readme-stats)
+
+Skills: Python / Java / JavaScript / C++ (Advanced) / HTML5 / CSS3 / PHP / SQL
