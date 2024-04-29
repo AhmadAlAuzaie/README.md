@@ -1,5 +1,5 @@
 <h1>Hi there! 👋</h1>
-<h3>I'm Ahmad, a dedicated Computer Science student with a focus on Cyber Security and Artificial Intelligence from the Singapore Institute of Management.</h3>
+<h3>I'm Ahmad, a dedicated Computer Science student with a focus on Cyber Security from the Singapore Institute of Management.</h3>
 
 I'm not just pursuing my academic career; I also bring a unique perspective as a cochlear implant hearing aid user, which fuels my determination and resilience in overcoming challenges in tech and beyond. Despite these challenges, I've maintained strong academic and technical prowess, aiming to make significant impacts in the fields of Cyber Security and AI.
 
